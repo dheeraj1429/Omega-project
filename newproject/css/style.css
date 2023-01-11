@@ -1,0 +1,50 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+    background-color: #f6f6f6;
+}
+.container{
+    background-color: #fff;
+}
+h2{
+    font-size: 18px;
+    font-weight: 600;
+}
+.btn_let{
+    max-width: 155px;
+    max-height: 46px;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+   padding: 10px 40px 10px 40px;
+    
+}
+.rating{
+ color: yellow;
+}
+.views_heading{
+    font-size: 16px;
+    font-weight: 500;
+    color: blue;
+}
+.number{
+    font-size: 18px;
+    color: green;
+}
+.reviwes-icon{
+    color: gray !important;
+}
+
+.heading-top h3{
+    font-size: 16px;
+    color: #fff;
+}
+img{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 50px;
+}
